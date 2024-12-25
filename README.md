@@ -96,7 +96,7 @@ Place the provided dataset (`Ecommerce_Sales_Data.xlsx`) into the `Data` folder 
 ## 🏗️ **Project Structure**
 
 ```
-📂 ecommerce-dashboard-powerbi/
+📂 E-commerce-Dashboard-Project-Using-Power-BI/
 ├── 📄 README.md                              # Project overview and guide
 ├── 📂 Data/                                  # Dataset files
 │   └── Ecommerce_Sales_Data.xlsx            # E-commerce sales dataset
