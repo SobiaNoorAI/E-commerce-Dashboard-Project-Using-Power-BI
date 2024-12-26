@@ -99,7 +99,12 @@ Place the provided dataset (`Ecommerce_Sales_Data.xlsx`) into the `Data` folder 
 📂 E-commerce-Dashboard-Project-Using-Power-BI/
 ├── 📄 README.md                              # Project overview and guide
 ├── 📂 Data/                                  # Dataset files
-│   └── Ecommerce_Sales_Data.xlsx            # E-commerce sales dataset
+│   └── Ecommerce_Sales_Data.xlsx            # E-commerce sales dataset/ Final combined dataset with new columns
+      📂 Original Data/
+      ├── Customers_Large.csv     # Original customer data
+      ├── Orders_Large.csv        # Original order data
+      ├── Products_Large.csv      # Original product data
+      ├── Sales_Large.csv         # Original sales data
 ├── 📂 Reports/                               # Power BI reports
 │   └── Ecommerce_Dashboard.pbix             # Power BI dashboard file
 ├── 📂 Images/                                # Visualizations and screenshots
