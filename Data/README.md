@@ -40,22 +40,22 @@ The following CSV files were used to create the dataset:
 ## 🔧 **How to Use**
 
 1. **Data Source**:
-   - All individual CSV files are available in 📂 Data and the combined `Dataset.csv` is available in this folder.
+   - All individual CSV files are available in 📂 Original Data and the combined `Ecommerce_Sales_Data.xlsx` is available in the 📂 Data folder.
    - Use the files as inputs for analysis in Power BI or any other analytics tool.
 
 2. **Integration**:
-   - The `Dataset.csv` file can be directly imported into Power BI for creating dashboards and reports.
+   - The `Ecommerce_Sales_Data.xlsx` file can be directly imported into Power BI for creating dashboards and reports.
    - Original CSV files are retained for flexibility and data lineage.
 
 ---
 
 ## 📂 **Folder Structure**
 ```
-📂 Data/
-├── Customers_Large.csv     # Original customer data
-├── Orders_Large.csv        # Original order data
-├── Products_Large.csv      # Original product data
-├── Sales_Large.csv         # Original sales data
-├── Dataset.csv             # Final combined dataset with new columns
+├── Ecommerce_Sales_Data.xlsx  # Final combined dataset with new columns
+   📂 Original Data/
+   ├── Customers_Large.csv     # Original customer data
+   ├── Orders_Large.csv        # Original order data
+   ├── Products_Large.csv      # Original product data
+   ├── Sales_Large.csv         # Original sales data
 ```
 ---
